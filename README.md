@@ -1,7 +1,8 @@
 # Matrix Class in C++
 
-### Implementing a matrix class and testing it in C++. The matrix class
-does following:
+### Implementing a matrix class and testing it in C++.
+
+The matrix class does the following:
 
 1. Initializing the matrix with a 1D float or int array and 2 integers
 indicating the shape of the matrix.
