@@ -5,10 +5,10 @@ does following:
 
 1. Initializing the matrix with a 1D float or int array and 2 integers
 indicating the shape of the matrix.
-2. Printing the matrix in a 2D fashion like the following for a 3x3 matrix:
-1 2 3
-4 5 6
-7 8 9
+2. Printing the matrix in a 2D fashion like the following for a 3x3 matrix:  
+1 2 3  
+4 5 6  
+7 8 9  
 3. Adding through an Add() function that accepts another matrix and
 returns the result of adding both matrices as a matrix.
 4. Multiplying through a Multiply() function that accepts another matrix
