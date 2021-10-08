@@ -20,10 +20,11 @@ cij = ai1b1j + ai2b2j + …. + ainbnj
 5. Transposing through a Transpose() function that returns the result of
 transposing the matrix as a matrix. Here is a refresher of the
 transpose operator:
-Important Note: You should think about which class members need to be
-public and which need to be private. You should also think if any member
-needs to be const. These choices will be graded.
-Your main function should test the matrix class by doing the following:
+
+
+The main function tests the matrix class by doing the following:
+
+
 1. Creating a 2x3 matrix and printing it
 2. Creating a 2x2 matrix and printing it
 3. Transposing the first matrix and printing the output.
