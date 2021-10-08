@@ -1,6 +1,6 @@
 # Matrix Class in C++
 
-###Implementing a matrix class and testing it in C++. The matrix class
+### Implementing a matrix class and testing it in C++. The matrix class
 does following:
 
 1. Initializing the matrix with a 1D float or int array and 2 integers
@@ -18,7 +18,7 @@ transposing the matrix as a matrix. Here is a refresher of the
 transpose operator:
 
 
-###The main function tests the matrix class by doing the following:
+### The main function tests the matrix class by doing the following:
 
 1. Creating a 2x3 matrix and printing it
 2. Creating a 2x2 matrix and printing it
