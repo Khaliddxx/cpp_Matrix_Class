@@ -13,10 +13,6 @@ indicating the shape of the matrix.
 returns the result of adding both matrices as a matrix.
 4. Multiplying through a Multiply() function that accepts another matrix
 and returns the result of multiplying both matrices as a matrix. Here
-is a refresher of how we multiply matrices:
-If A = [aij] is an m x n matrix and B = [Bij] is an n x p matrix, the
-product AB is an m x p matrix C where C = [cij] and
-cij = ai1b1j + ai2b2j + …. + ainbnj
 5. Transposing through a Transpose() function that returns the result of
 transposing the matrix as a matrix. Here is a refresher of the
 transpose operator:
